@@ -8,5 +8,5 @@
         <item name="android:statusBarColor">@color/primary</item>
     </style>
 
-    <style name="Theme.ProDownloadManager" parent="Base.Theme.ProDownloadManager" />
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar" />
 </resources>
