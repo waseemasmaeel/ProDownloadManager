@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-
-    <!-- Base Theme -->
-    <style name="Base.Theme.ProDownloadManager" parent="Theme.Material3.DayNight">
-        <!-- يمكنك تخصيص بعض الخصائص إذا كنت تحتاجها -->
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="android:statusBarColor">@color/primary_dark</item>
         <item name="android:navigationBarColor">@color/primary_dark</item>
     </style>
-
-    <!-- App Theme -->
-    <style name="AppTheme" parent="Base.Theme.ProDownloadManager">
-        <!-- أضف أي تخصيص إضافي هنا -->
-    </style>
-
 </resources>
