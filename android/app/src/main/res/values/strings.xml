@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pro Download Manager</string>
+    
+    <!-- Main Screen -->
+    <string name="downloads">التنزيلات</string>
+    <string name="active">نشط</string>
+    <string name="completed">مكتمل</string>
+    <string name="paused">متوقف</string>
+    <string name="failed">فاشل</string>
+    <string name="add_download">إضافة تنزيل</string>
+    <string name="settings">الإعدادات</string>
+    <string name="statistics">الإحصائيات</string>
+    
+    <!-- Download Dialog -->
+    <string name="enter_url">أدخل رابط التنزيل</string>
+    <string name="url_hint">https://example.com/file.zip</string>
+    <string name="file_name">اسم الملف</string>
+    <string name="file_name_hint">اترك فارغاً للكشف التلقائي</string>
+    <string name="download_path">مسار التنزيل</string>
+    <string name="advanced_options">خيارات متقدمة</string>
+    <string name="number_of_threads">عدد الأجزاء</string>
+    <string name="priority">الأولوية</string>
+    <string name="schedule_download">جدولة التنزيل</string>
+    <string name="wifi_only">WiFi فقط</string>
+    <string name="start_download">بدء التنزيل</string>
+    <string name="cancel">إلغاء</string>
+    
+    <!-- Download Item -->
+    <string name="speed">السرعة: %s/s</string>
+    <string name="size">الحجم: %s</string>
+    <string name="remaining">المتبقي: %s</string>
+    <string name="eta">الوقت المتبقي: %s</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="resume">استئناف</string>
+    <string name="delete">حذف</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="open">فتح</string>
+    <string name="share">مشاركة</string>
+    
+    <!-- Settings -->
+    <string name="max_concurrent_downloads">الحد الأقصى للتنزيلات المتزامنة</string>
+    <string name="max_threads_per_download">الحد الأقصى للأجزاء لكل تنزيل</string>
+    <string name="speed_limit">حد السرعة (KB/s)</string>
+    <string name="auto_start">بدء تلقائي عند الإضافة</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="theme">المظهر</string>
+    <string name="light">فاتح</string>
+    <string name="dark">داكن</string>
+    <string name="system">النظام</string>
+    <string name="backup_restore">نسخ احتياطي واستعادة</string>
+    <string name="backup">نسخ احتياطي</string>
+    <string name="restore">استعادة</string>
+    
+    <!-- Statistics -->
+    <string name="total_downloaded">إجمالي التنزيل</string>
+    <string name="downloads_today">تنزيلات اليوم</string>
+    <string name="average_speed">متوسط السرعة</string>
+    <string name="total_files">إجمالي الملفات</string>
+    <string name="success_rate">معدل النجاح</string>
+    
+    <!-- Notifications -->
+    <string name="downloading">جاري التنزيل…</string>
+    <string name="download_completed">اكتمل التنزيل</string>
+    <string name="download_failed">فشل التنزيل</string>
+    <string name="download_paused">تم إيقاف التنزيل مؤقتاً</string>
+    
+    <!-- Errors -->
+    <string name="error_invalid_url">رابط غير صالح</string>
+    <string name="error_no_connection">لا يوجد اتصال بالإنترنت</string>
+    <string name="error_no_space">لا توجد مساحة كافية</string>
+    <string name="error_permission">يرجى منح صلاحيات التخزين</string>
+    <string name="error_unknown">حدث خطأ غير متوقع</string>
+    
+    <!-- Confirmation -->
+    <string name="confirm_delete">هل تريد حذف هذا التنزيل؟</string>
+    <string name="confirm_delete_file">حذف الملف أيضاً</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    
+    <!-- Priority -->
+    <string name="priority_low">منخفضة</string>
+    <string name="priority_normal">عادية</string>
+    <string name="priority_high">عالية</string>
+    
+    <!-- File Types -->
+    <string name="all_files">جميع الملفات</string>
+    <string name="videos">فيديو</string>
+    <string name="music">موسيقى</string>
+    <string name="documents">مستندات</string>
+    <string name="images">صور</string>
+    <string name="archives">أرشيفات</string>
+    <string name="apk">تطبيقات</string>
+    <string name="others">أخرى</string>
+</resources>
