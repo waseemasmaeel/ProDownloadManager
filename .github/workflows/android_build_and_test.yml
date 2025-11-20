@@ -35,7 +35,7 @@ jobs:
         
     - name: 🧪 Run Unit Tests
 
-      run: ./gradlew testDebugUnitTest 
+      run: ./gradlew testDebugUnitTest --info
       
     # ------------------------------------------------------------------
     # هذه الخطوات ستعمل فقط إذا نجحت خطوة 'Run Unit Tests'
